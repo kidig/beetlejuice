@@ -1,0 +1,12 @@
+Django
+django-happymailer
+-e git+https://github.com/kidig/django-robust.git@586589ab159002461f98422b9831b2f89ee0a10c#egg=django_robust
+-e git+https://github.com/kidig/api.git@a0c97026fbd00cb7be9dcb796135779b4810cef5#egg=api
+easy-thumbnails
+factory-boy
+psycopg2
+pytest
+pytest-django
+requests
+trafaret
+uWSGI
