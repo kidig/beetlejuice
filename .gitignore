@@ -66,11 +66,4 @@ ENV/
 /static
 /media
 /.local-env
-
-/es5
-/node_modules/
-/build/
-/server/
-/src/routes.ts
-/src/serverRoutes.ts
-/src/openApi.ts
+/node_modules
